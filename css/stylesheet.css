@@ -60,7 +60,7 @@ input[type="text"], input[type="password"]{
   text-align: center;
   color: #ffffff;
 }
-input[type="submit"]{
+button{
 	display: block;
   width: 100%;
   text-align: center;
